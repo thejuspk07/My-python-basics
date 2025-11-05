@@ -323,4 +323,4 @@ git clone https://github.com/<your-username>/python-basics-to-advanced.git
 
 Run any program:
 
-python level1_basics/hello_world.py.
+python level1_basics/hello_world.py..
