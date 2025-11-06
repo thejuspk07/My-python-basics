@@ -1,4 +1,4 @@
-🐍 Python Programming — From Basics to Advanced
+#🐍 Python Programming — From Basics to Advanced
 👋 About
 
 This repository is a complete collection of Python programs I wrote while learning programming from scratch — starting with “Hello World” to intermediate-level projects and data science basics.
