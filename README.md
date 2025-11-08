@@ -142,7 +142,7 @@ Second largest number
 
 Merge two lists
 
-Reverse list
+Reverse list. 
 
 List comprehension examples
 
