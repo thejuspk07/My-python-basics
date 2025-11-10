@@ -90,7 +90,7 @@ Goal: Understand iteration, control flow, and pattern printing.
 
 Patterns:
 
-Rectangle of *
+1.Rectangle of *
 
 Right triangle
 
