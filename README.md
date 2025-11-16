@@ -1,4 +1,4 @@
-#🐍 Python Programming — From Basics to Advanced
+🐍 Python Programming — From Basics to Advanced 
 
 About
 
