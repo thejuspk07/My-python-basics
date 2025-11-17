@@ -1,327 +1,166 @@
-#🐍 Python Programming — From Basics to Advanced 
-
-About
-
-This repository is a complete collection of Python programs I wrote while learning programming from scratch — starting with “Hello World” to intermediate-level projects and data science basics.
-It’s organized level-by-level to help beginners understand Python step by step.
-
-🧩 Table of Contents
-Level	Topic	Focus
-Level 1
-	Python Basics	Input, Output, Conditions
-Level 2
-	Loops & Patterns	For/While loops, pattern printing
-Level 3
-	Strings & Lists	Text and list operations
-Level 4
-	Functions, Tuples, Sets, Dicts	Modular programming
-Level 5
-	Files & Exceptions	File handling and error handling
-Level 6
-	Intermediate Programs	Practice problems
-Level 7
-	OOP	Classes, objects, inheritance
-Level 8
-	Mini Projects	Combine all learned concepts
-Level 9
-	Data Science Starter	Numpy, Pandas, Matplotlib
-🧱 LEVEL 1 — Python Basics
-
-Goal: Learn input/output, arithmetic, conditions, and simple logic.
-
-📘 Programs:
-
-1.Print “Hello World”
-
-2.Print your name and college
-
-3.Add two numbers
-
-4.Swap two numbers
-
-5.Largest of two and three numbers
-
-6.Even/Odd, Positive/Negative/Zero
-
-7.Square and cube of a number
-
-8.Simple & Compound Interest
-
-9.Area and perimeter (circle, rectangle, triangle)
-
-10.Celsius ↔ Fahrenheit conversion
-
-11.Leap year check
-
-12.Factorial (for loop / while loop)
-
-13.Multiplication table
-
-14.First 10 natural numbers
-
-15.Sum of first N natural numbers
-
-16Count digits in a number
-
-17.Reverse a number
-
-18.Palindrome number check
-
-📁 Folder: level1_basics/
-
-🔁 LEVEL 2 — Loops and Patterns
-
-Goal: Understand iteration, control flow, and pattern printing.
-
-📘 Programs:
-
-1.Print 1–10 using for loop
-
-2.Print numbers in reverse order
-
-3.Sum of even and odd numbers separately
-
-4.Prime numbers between 1–100
-
-5.Factorial using loop
-
-6.Fibonacci series
-
-Patterns:
-
-1.Rectangle of *
-
-Right triangle
-
-Inverted triangle
-
-Pyramid
-
-Number triangle
-
-Diamond shape
-
-📁 Folder: level2_loops_patterns/
-
-📦 LEVEL 3 — Strings and Lists
-
-Goal: Learn to handle text (strings) and collections (lists).
-
-📘 String Programs:
-
-Reverse a string
-
-Count vowels/consonants
-
-Palindrome string check
-
-Character frequency count
-
-Replace vowels with *
-
-Convert case (upper/lower)
-
-Substring search
-
-Remove spaces/special chars
-
-Longest word in sentence
-
-📘 List Programs:
-
-Sum and average of list
-
-Max and min elements
-
-Count even/odd numbers
-
-Remove duplicates
-
-Sort ascending/descending
-
-Second largest number
-
-Merge two lists
-
-Reverse list. 
-
-List comprehension examples
-
-📁 Folder: level3_strings_lists/
-
-🧮 LEVEL 4 — Functions, Tuples, Sets, and Dictionaries
-
-Goal: Modularize your code and work with more data types.
-
-📘 Programs:
-
-Prime number check (function)
-
-Factorial (function)
-
-Area of shapes (function)
-
-Count vowels (function)
-
-Function returning multiple values
-
-*args and **kwargs examples
-
-📘 Tuples & Sets:
-
-Create and access elements
-
-Convert list ↔ tuple
-
-Set operations (union, intersection, difference)
-
-📘 Dictionaries:
-
-Create and access key–values
-
-Add/remove pairs
-
-Merge two dicts
-
-Count frequency using dict
-
-Student marks dictionary (find average)
-
-📁 Folder: level4_functions_collections/
-
-📁 LEVEL 5 — Files and Exceptions
-
-Goal: Learn file handling and error management.
-
-📘 Programs:
-
-Read a text file
-
-Write into a text file
-
-Count words, lines, characters
-
-Copy file contents
-
-Handle division by zero (try–except)
-
-Handle invalid input errors
-
-📁 Folder: level5_files_exceptions/
-
-🧠 LEVEL 6 — Intermediate Programs
-
-Goal: Solve logic-based and numeric problems.
-
-📘 Programs:
-
-Armstrong number
-
-Strong number
-
-Prime numbers in range
-
-Palindrome words in a sentence
-
-Sum of digits
-
-GCD and LCM
-
-Binary ↔ Decimal
-
-Word count in sentence
-
-Frequency of elements
-
-Menu-driven calculator
-
-📁 Folder: level6_intermediate/
-
-🧰 LEVEL 7 — Object Oriented Programming (OOP)
-
-Goal: Understand classes, objects, methods, inheritance, etc.
-
-📘 Programs:
-
-Student class (name, marks)
-
-Calculator class (add/subtract)
-
-Bank Account class (deposit, withdraw)
-
-Employee class (salary hike)
-
-Inheritance example (Parent → Child)
-
-Encapsulation example
-
-Constructor __init__ demo
-
-📁 Folder: level7_oop/
-
-🧩 LEVEL 8 — Mini Projects
-
-Goal: Combine multiple Python concepts.
-
-💡 Ideas:
-
-Student Report Card Generator
-
-Simple Calculator
-
-Guess the Number Game
-
-Password Strength Checker
-
-To-Do List (file-based)
-
-Contact Book
-
-Word Counter
-
-Rock–Paper–Scissors Game
-
-Quiz App
-
-Library Management System (intermediate)
-
-📁 Folder: level8_projects/
-
-📊 LEVEL 9 — Data Science Starter
-
-Goal: Begin exploring Python libraries for data analysis.
-
-📘 Libraries:
-
-NumPy — Arrays, mathematical operations
-
-Pandas — DataFrames, CSV read/write, filtering, grouping
-
-Matplotlib — Visualizations (bar, line, scatter)
-
-scikit-learn — Basic machine learning models
-
-📁 Folder: level9_data_science/
-
-🧠 Future Plans
-
-After mastering Python basics and data science starter:
-
-Explore EDA (Exploratory Data Analysis)
-
-Learn Machine Learning algorithms
-
-Build real-world AI projects
-
-⚙️ Setup Instructions
-
-Install Python 3.x
-
-Clone this repo:
-
-git clone https://github.com/<your-username>/python-basics-to-advanced.git
-
-
-Run any program:
-
-python level1_basics/hello_world.py..
+### 📘 Level 1 — Python Basics Programs
+
+| Program Name | Focus |
+| :--- | :--- |
+| `hello_world.py` | Print “Hello World” |
+| `name_college.py` | Print your name and college |
+| `add_two_numbers.py` | Add two numbers |
+| `swap_numbers.py` | Swap two numbers |
+| `largest_two_three.py` | Largest of two and three numbers |
+| `check_number_type.py` | Even/Odd, Positive/Negative/Zero |
+| `square_cube.py` | Square and cube of a number |
+| `simple_compound_interest.py` | Simple & Compound Interest |
+| `area_perimeter.py` | Area and perimeter (circle, rectangle, triangle) |
+| `celsius_fahrenheit.py` | Celsius $\leftrightarrow$ Fahrenheit conversion |
+| `leap_year.py` | Leap year check |
+| `factorial_loop.py` | Factorial (for loop / while loop) |
+| `multiplication_table.py` | Multiplication table |
+| `first_ten_natural.py` | First 10 natural numbers |
+| `sum_n_natural.py` | Sum of first N natural numbers |
+| `count_digits.py` | Count digits in a number |
+| `reverse_number.py` | Reverse a number |
+| `palindrome_number.py` | Palindrome number check |
+
+---
+
+### 🔁 Level 2 — Loops and Patterns Programs
+
+| Program Name | Focus |
+| :--- | :--- |
+| `print_1_to_10.py` | Print 1–10 using for loop |
+| `print_reverse.py` | Print numbers in reverse order |
+| `sum_even_odd_separate.py` | Sum of even and odd numbers separately |
+| `prime_1_to_100.py` | Prime numbers between 1–100 |
+| `factorial_loop.py` | Factorial using loop |
+| `fibonacci_series.py` | Fibonacci series |
+| `pattern_rectangle.py` | Pattern: Rectangle of `*` |
+| `pattern_right_triangle.py` | Pattern: Right triangle |
+| `pattern_inverted_triangle.py` | Pattern: Inverted triangle |
+| `pattern_pyramid.py` | Pattern: Pyramid |
+| `pattern_number_triangle.py` | Pattern: Number triangle |
+| `pattern_diamond.py` | Pattern: Diamond shape |
+
+---
+
+### 📦 Level 3 — Strings and Lists Programs
+
+#### String Programs
+
+| Program Name | Focus |
+| :--- | :--- |
+| `string_reverse.py` | Reverse a string |
+| `string_vowel_consonant_count.py` | Count vowels/consonants |
+| `string_palindrome.py` | Palindrome string check |
+| `string_char_frequency.py` | Character frequency count |
+| `string_replace_vowels.py` | Replace vowels with `*` |
+| `string_case_conversion.py` | Convert case (upper/lower) |
+| `string_substring_search.py` | Substring search |
+| `string_remove_chars.py` | Remove spaces/special chars |
+| `string_longest_word.py` | Longest word in sentence |
+
+#### List Programs
+
+| Program Name | Focus |
+| :--- | :--- |
+| `list_sum_average.py` | Sum and average of list |
+| `list_max_min.py` | Max and min elements |
+| `list_count_even_odd.py` | Count even/odd numbers |
+| `list_remove_duplicates.py` | Remove duplicates |
+| `list_sort.py` | Sort ascending/descending |
+| `list_second_largest.py` | Second largest number |
+| `list_merge.py` | Merge two lists |
+| `list_reverse.py` | Reverse list |
+| `list_comprehension.py` | List comprehension examples |
+
+---
+
+### 🧮 Level 4 — Functions and Collections Programs
+
+| Program Name | Focus |
+| :--- | :--- |
+| `func_prime_check.py` | Prime number check (function) |
+| `func_factorial.py` | Factorial (function) |
+| `func_area_shapes.py` | Area of shapes (function) |
+| `func_vowel_count.py` | Count vowels (function) |
+| `func_return_multiple.py` | Function returning multiple values |
+| `func_args_kwargs.py` | `*args` and `**kwargs` examples |
+| `tuple_basics.py` | Create and access elements (Tuple) |
+| `list_tuple_conversion.py` | Convert list $\leftrightarrow$ tuple |
+| `set_operations.py` | Set operations (union, intersection, difference) |
+| `dict_basics.py` | Create and access key–values (Dict) |
+| `dict_add_remove.py` | Add/remove pairs |
+| `dict_merge.py` | Merge two dicts |
+| `dict_frequency_count.py` | Count frequency using dict |
+| `dict_student_marks.py` | Student marks dictionary (find average) |
+
+---
+
+### 💾 Level 5 — Files and Exceptions Programs
+
+| Program Name | Focus |
+| :--- | :--- |
+| `file_read_text.py` | Read a text file |
+| `file_write_text.py` | Write into a text file |
+| `file_count_stats.py` | Count words, lines, characters |
+| `file_copy_contents.py` | Copy file contents |
+| `exception_division_zero.py` | Handle division by zero (`try–except`) |
+| `exception_invalid_input.py` | Handle invalid input errors |
+
+---
+
+### 🧠 Level 6 — Intermediate Programs
+
+| Program Name | Focus |
+| :--- | :--- |
+| `armstrong_number.py` | Armstrong number |
+| `strong_number.py` | Strong number |
+| `prime_in_range.py` | Prime numbers in range |
+| `palindrome_words_sentence.py` | Palindrome words in a sentence |
+| `sum_of_digits.py` | Sum of digits |
+| `gcd_lcm.py` | GCD and LCM |
+| `binary_decimal_conversion.py` | Binary $\leftrightarrow$ Decimal |
+| `word_count_sentence.py` | Word count in sentence |
+| `frequency_elements.py` | Frequency of elements |
+| `menu_driven_calculator.py` | Menu-driven calculator |
+
+---
+
+### 🛠️ Level 7 — Object Oriented Programming (OOP) Programs
+
+| Program Name | Focus |
+| :--- | :--- |
+| `oop_student_class.py` | Student class (name, marks) |
+| `oop_calculator_class.py` | Calculator class (add/subtract) |
+| `oop_bank_account.py` | Bank Account class (deposit, withdraw) |
+| `oop_employee_class.py` | Employee class (salary hike) |
+| `oop_inheritance.py` | Inheritance example (Parent $\rightarrow$ Child) |
+| `oop_encapsulation.py` | Encapsulation example |
+| `oop_constructor_init.py` | Constructor `__init__` demo |
+
+---
+
+### 🎮 Level 8 — Mini Projects
+
+| Program Name | Focus |
+| :--- | :--- |
+| `project_report_card.py` | Student Report Card Generator |
+| `project_simple_calculator.py` | Simple Calculator |
+| `project_guess_number.py` | Guess the Number Game |
+| `project_password_strength.py` | Password Strength Checker |
+| `project_todo_list.py` | To-Do List (file-based) |
+| `project_contact_book.py` | Contact Book |
+| `project_word_counter.py` | Word Counter |
+| `project_rock_paper_scissors.py` | Rock–Paper–Scissors Game |
+| `project_quiz_app.py` | Quiz App |
+| `project_library_management.py` | Library Management System (intermediate) |
+
+---
+
+### 📊 Level 9 — Data Science Starter Programs
+
+| Program Name | Focus |
+| :--- | :--- |
+| `ds_numpy_arrays.py` | NumPy — Arrays, mathematical operations |
+| `ds_pandas_dataframes.py` | Pandas — DataFrames, CSV read/write, filtering |
+| `ds_matplotlib_viz.py` | Matplotlib — Visualizations (bar, line, scatter) |
+| `ds_sklearn_intro.py` | scikit-learn — Basic machine learning models |
