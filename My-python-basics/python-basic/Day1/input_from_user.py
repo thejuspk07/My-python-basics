@@ -1,0 +1,5 @@
+username=input("enter your name:")
+user_age =int(input("enter your age:"))
+user_place = input("enter your place:")
+print("Hello" ,username,"how are you!")
+print("you are " ,user_age, "and your are from" ,user_place)
