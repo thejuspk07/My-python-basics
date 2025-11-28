@@ -1,0 +1,5 @@
+num = int(input("Enter a number:"))
+print("is number positive?",num>0)
+print("is it even And positive?",num%2==0 and num>0)
+print("is number negative?",num<0)
+print("is number not even?",num%2==1)
