@@ -2,3 +2,8 @@
 a = 10
 b = 20
 print("is a>b?",a>b)
+print("is a<b?",a<b)
+print("is a==b?",a==b)
+print("is a<=b?",a<=b)
+print("is a>=b?",a>=b)
+print("is a!=b?",a!=b)
