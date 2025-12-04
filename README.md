@@ -148,7 +148,7 @@
 | `project_guess_number.py` | Guess the Number Game |
 | `project_password_strength.py` | Password Strength Checker |
 | `project_todo_list.py` | To-Do List (file-based) |
-| `project_contact_book.py` | Contact Book |
+| `project_contact_book.py` | Contact Book ||
 | `project_word_counter.py` | Word Counter |
 | `project_rock_paper_scissors.py` | Rock–Paper–Scissors Game |
 | `project_quiz_app.py` | Quiz App |
