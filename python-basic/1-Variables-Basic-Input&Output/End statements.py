@@ -7,4 +7,16 @@ print("python ",end = "")
 print(" is",end="")
 print(" fun")
 
+#Print numbers 1 to 5 using a loop where each number stays in the same line separated by commas.
+for i in range(1,6):
+    print(i,end=",")
+
+
+print()
+
+
+#Print a smiley face pattern:
+print(":)" ,":)", ":)")
+
+
 
