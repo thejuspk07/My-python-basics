@@ -48,8 +48,8 @@ print(len(a))
 #duplicated are allowed
 #immutable
 
-name ="Thejus"
-age =20
-place ="kannur"
-qualification = "B tech"
+name = input("Enter your name")
+age = input("Enter your age")
+place = input("Enter your place")
+qualification = input("Enter your qualification")
 print(f"Iam {name}.Iam coming from {place}.Iam {age} years old.\nMy qualification is {qualification}")
