@@ -12,3 +12,8 @@ print(" Red\n","Green\n","Blue\n")
 
 #Print numbers 1, 2, 3, 4, 5 separated by " --> "
 print("1","2","3","4","5",sep="-->")
+
+#Ask the user for their first name and last name. Print them together in one line using sep.
+firstname =input("enter the first name:")
+lastname = input("enter the last name:")
+print(firstname,lastname,sep="")
