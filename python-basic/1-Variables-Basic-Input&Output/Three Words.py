@@ -3,3 +3,7 @@ a = input("Enter first word:")
 b = input("Enter second word:")
 c = input("Enter third word:")
 print(a,b,c,sep="-")
+
+
+word = input("Enter three words")
+print(word,sep="-")
