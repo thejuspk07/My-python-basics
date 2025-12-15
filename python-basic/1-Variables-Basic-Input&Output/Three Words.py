@@ -1,3 +1,3 @@
 #Ask the user to enter three words. Print them separated by " - " using sep.
-word = input("Enter three words with seperated:")
+word = input("Enter three words with seperated or spaces")
 print(word,sep="-")
