@@ -37,7 +37,7 @@
 | `pattern_right_triangle.py` | Pattern: Right triangle |
 | `pattern_inverted_triangle.py` | Pattern: Inverted triangle |
 | `pattern_pyramid.py` | Pattern: Pyramid |
-| `pattern_number_triangle.py` | Pattern: Number triangle |
+| `pattern_number_triangle.py` | Pattern: Number triangle ||
 | `pattern_diamond.py` | Pattern: Diamond shape |
 
 ---
