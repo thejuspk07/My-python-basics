@@ -119,8 +119,8 @@
 | `sum_of_digits.py` | Sum of digits |
 | `gcd_lcm.py` | GCD and LCM |
 | `binary_decimal_conversion.py` | Binary $\leftrightarrow$ Decimal |
-| `word_count_sentence.py` | Word count in sentence |
-| `frequency_elements.py` | Frequency of elements |
+| `word_count_sentence.py` | Word count in sentence| |
+| `frequency_elements.py` | Frequency of elements ||
 | `menu_driven_calculator.py` | Menu-driven calculator |
 
 ---
