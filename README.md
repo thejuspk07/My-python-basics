@@ -19,7 +19,7 @@
 | `sum_n_natural.py` | Sum of first N natural numbers |
 | `count_digits.py` | Count digits in a number |
 | `reverse_number.py` | Reverse a number |
-| `palindrome_number.py` | Palindrome number check |
+| `palindrome_number.py` | Palindrome number check ||
 
 ---
 
