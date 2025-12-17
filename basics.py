@@ -55,3 +55,13 @@ age = input("Enter your age")
 place = input("Enter your place")
 qualification = input("Enter your qualification")
 print(f"Iam {name}.Iam coming from {place}.Iam {age} years old.\nMy qualification is {qualification}")
+
+
+
+# operators
+  #Arithmetic operations
+        #addition --> +
+        #substraction--> -
+        #multiplication --> *
+        #division --> /
+        #modulus --> %
