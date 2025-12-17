@@ -67,3 +67,10 @@ print(f"Iam {name}.Iam coming from {place}.Iam {age} years old.\nMy qualificatio
         # modulus --> %
         # floor division --> //
         # power operator --> **
+
+  #comparision operators
+    # ==
+    # >
+    # >=
+    # <=
+    # !=
