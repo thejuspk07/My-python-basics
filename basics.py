@@ -60,8 +60,9 @@ print(f"Iam {name}.Iam coming from {place}.Iam {age} years old.\nMy qualificatio
 
 # operators
   #Arithmetic operations
-        #addition --> +
-        #substraction--> -
-        #multiplication --> *
-        #division --> /
-        #modulus --> %
+        # addition --> +
+        # substraction--> -
+        # multiplication --> *
+        # division --> /
+        # modulus --> %
+        # floor division --> //
