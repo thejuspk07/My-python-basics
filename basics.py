@@ -34,6 +34,8 @@ print(type(a))
 
 # mapping type
     #dictionary
+# boolean
+ # true or false
 
 
 # None type
