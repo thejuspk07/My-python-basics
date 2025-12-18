@@ -159,7 +159,7 @@
 ### 📊 Level 9 — Data Science Starter Programs
 
 | Program Name | Focus |
-| :--- | :--- |
+| :--- | :--- |/
 | `ds_numpy_arrays.py` | NumPy — Arrays, mathematical operations |
 | `ds_pandas_dataframes.py` | Pandas — DataFrames, CSV read/write, filtering |
 | `ds_matplotlib_viz.py` | Matplotlib — Visualizations (bar, line, scatter) |
