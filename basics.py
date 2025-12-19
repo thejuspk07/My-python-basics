@@ -89,6 +89,13 @@ print(f"Iam {name}.Iam coming from {place}.Iam {age} years old.\nMy qualificatio
     # %=
     # //=
 
+
 a=10
 a//=5
 print(a)
+
+#  Membership Operators
+    #in
+
+a="python"
+print("y" in a)
