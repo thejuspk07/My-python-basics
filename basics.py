@@ -75,9 +75,10 @@ print(f"Iam {name}.Iam coming from {place}.Iam {age} years old.\nMy qualificatio
     # <=
     # !=
 
+  #Logical operators
+    #AND
+    #OR
+    #NOT
 
-
-a="10"
-b=10
-print(a!=b)
-
+# Assignment operators
+    #
