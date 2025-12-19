@@ -81,4 +81,13 @@ print(f"Iam {name}.Iam coming from {place}.Iam {age} years old.\nMy qualificatio
     #NOT
 
 # Assignment operators
+    # =
+    # +=
+    # -=
+    # *=
+    # /=
     #
+
+a=10
+a//=5
+print(a)
