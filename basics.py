@@ -99,3 +99,8 @@ print(a)
 
 a="python"
 print("y" in a)
+
+a=[2,3,5,1,"fgdg"]
+print("fgdg"  in a )
+
+print
