@@ -6,6 +6,16 @@
 num = 10
 print(num)
 
+#separtor
+print("apple ",'banana '," cherry ",sep="|")
+print()
+
+
+#End
+
+print("Hello",end ="")
+print("World")
+
 # Numerical
     #int
     #float
