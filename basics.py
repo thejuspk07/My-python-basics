@@ -116,3 +116,7 @@ print("fgdg" not in "fgdg")
 a= "34"
 b ="34"
 print(a+b) # ans =3434  #string concatenation
+
+a = "Nikil"
+b = "Madhev"
+print(a+" "+b)
