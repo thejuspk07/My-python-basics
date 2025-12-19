@@ -96,6 +96,8 @@ print(a)
 
 #  Membership Operators
     #in
+    #not in
+
 
 a="python"
 print("y" in a)
@@ -103,4 +105,14 @@ print("y" in a)
 a=[2,3,5,1,"fgdg"]
 print("fgdg"  in a )
 
-print
+print("fgdg" in "fgdg")
+print("fgdg" not in "fgdg")
+
+
+#a=10
+#b="14"
+#print(a+b) #error
+
+a= "34"
+b ="34"
+print(a+b) # ans =3434  #string concatenation
