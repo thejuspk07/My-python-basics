@@ -33,7 +33,7 @@
 | `prime_1_to_100.py` | Prime numbers between 1–100 |
 | `factorial_loop.py` | Factorial using loop |
 | `fibonacci_series.py` | Fibonacci series |
-| `pattern_rectangle.py` | Pattern: Rectangle of `*` |
+| `pattern_rectangle.py` | Pattern: Rectangle of `*` ||
 | `pattern_right_triangle.py` | Pattern: Right triangle |
 | `pattern_inverted_triangle.py` | Pattern: Inverted triangle |
 | `pattern_pyramid.py` | Pattern: Pyramid |
