@@ -16,7 +16,7 @@
 | `factorial_loop.py` | Factorial (for loop / while loop) ||
 | `multiplication_table.py` | Multiplication table |
 | `first_ten_natural.py` | First 10 natural numbers |
-| `sum_n_natural.py` | Sum of first N natural numbers |
+| `sum_n_natural.py` | Sum of first N natural numbers ||
 | `count_digits.py` | Count digits in a number |
 | `reverse_number.py` | Reverse a number |
 | `palindrome_number.py` | Palindrome number check ||
