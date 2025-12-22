@@ -11,7 +11,7 @@
 | `square_cube.py` | Square and cube of a number |
 | `simple_compound_interest.py` | Simple & Compound Interest |
 | `area_perimeter.py` | Area and perimeter (circle, rectangle, triangle) |
-| `celsius_fahrenheit.py` | Celsius $\leftrightarrow$ Fahrenheit conversion |
+| `celsius_fahrenheit.py` | Celsius $\leftrightarrow$ Fahrenheit conversion ||
 | `leap_year.py` | Leap year check |
 | `factorial_loop.py` | Factorial (for loop / while loop) |||
 | `multiplication_table.py` | Multiplication table |
