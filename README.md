@@ -7,7 +7,7 @@
 | `add_two_numbers.py` | Add two numbers |
 | `swap_numbers.py` | Swap two numbers |
 | `largest_two_three.py` | Largest of two and three numbers |
-| `check_number_type.py` | Even/Odd, Positive/Negative/Zero |
+| `check_number_type.py` | Even/Odd, Positive/Negative/Zero ||
 | `square_cube.py` | Square and cube of a number |
 | `simple_compound_interest.py` | Simple & Compound Interest |
 | `area_perimeter.py` | Area and perimeter (circle, rectangle, triangle) |
