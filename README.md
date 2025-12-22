@@ -13,7 +13,7 @@
 | `area_perimeter.py` | Area and perimeter (circle, rectangle, triangle) |
 | `celsius_fahrenheit.py` | Celsius $\leftrightarrow$ Fahrenheit conversion |
 | `leap_year.py` | Leap year check |
-| `factorial_loop.py` | Factorial (for loop / while loop) ||
+| `factorial_loop.py` | Factorial (for loop / while loop) |||
 | `multiplication_table.py` | Multiplication table |
 | `first_ten_natural.py` | First 10 natural numbers |
 | `sum_n_natural.py` | Sum of first N natural numbers ||
