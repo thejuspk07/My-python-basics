@@ -1,7 +1,7 @@
 ### 📘 Level 1 — Python Basics Programs
 
 | Program Name | Focus |
-| :--- | :--- |/
+| :--- | :--- |
 | `hello_world.py` | Print “Hello World” |
 | `name_college.py` | Print your name and college |
 | `add_two_numbers.py` | Add two numbers |
@@ -11,14 +11,14 @@
 | `square_cube.py` | Square and cube of a number |
 | `simple_compound_interest.py` | Simple & Compound Interest |
 | `area_perimeter.py` | Area and perimeter (circle, rectangle, triangle) |
-| `celsius_fahrenheit.py` | Celsius $\leftrightarrow$ Fahrenheit conversion ||
+| `celsius_fahrenheit.py` | Celsius $\leftrightarrow$ Fahrenheit conversion |
 | `leap_year.py` | Leap year check |
-| `factorial_loop.py` | Factorial (for loop / while loop) |||
+| `factorial_loop.py` | Factorial (for loop / while loop) ||
 | `multiplication_table.py` | Multiplication table |
 | `first_ten_natural.py` | First 10 natural numbers |
-| `sum_n_natural.py` | Sum of first N natural numbers ||
+| `sum_n_natural.py` | Sum of first N natural numbers |
 | `count_digits.py` | Count digits in a number |
-| `reverse_number.py` | Reverse a number ||
+| `reverse_number.py` | Reverse a number |
 | `palindrome_number.py` | Palindrome number check ||
 
 ---
@@ -32,8 +32,8 @@
 | `sum_even_odd_separate.py` | Sum of even and odd numbers separately |
 | `prime_1_to_100.py` | Prime numbers between 1–100 |
 | `factorial_loop.py` | Factorial using loop |
-| `fibonacci_series.py` | Fibonacci series ||
-| `pattern_rectangle.py` | Pattern: Rectangle of `*` ||
+| `fibonacci_series.py` | Fibonacci series |
+| `pattern_rectangle.py` | Pattern: Rectangle of `*` |
 | `pattern_right_triangle.py` | Pattern: Right triangle |
 | `pattern_inverted_triangle.py` | Pattern: Inverted triangle |
 | `pattern_pyramid.py` | Pattern: Pyramid |
