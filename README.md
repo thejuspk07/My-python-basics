@@ -14,7 +14,7 @@
 | `celsius_fahrenheit.py` | Celsius $\leftrightarrow$ Fahrenheit conversion |
 | `leap_year.py` | Leap year check |
 | `factorial_loop.py` | Factorial (for loop / while loop) ||
-| `multiplication_table.py` | Multiplication table |
+| `multiplication_table.py` | Multiplication table ||
 | `first_ten_natural.py` | First 10 natural numbers |
 | `sum_n_natural.py` | Sum of first N natural numbers |
 | `count_digits.py` | Count digits in a number |
