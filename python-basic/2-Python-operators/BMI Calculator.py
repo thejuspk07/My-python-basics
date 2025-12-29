@@ -1,5 +1,5 @@
 #Take weight (kg) and height (m) as input. Calculate BMI using the formula:BMI = weight / (height ** 2)
-weight= int(input("Enter the weight:"))
-height = int(input("Enter the height:"))
-BMI=weight/(height**2)
+weight= float(input("Enter the weight:"))
+height = float(input("Enter the height:"))
+BMI=round(weight/(height**2),1)
 print(f"BMI IS {BMI}")
