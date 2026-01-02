@@ -1,0 +1,1 @@
+weather = input("Enter today's weather")
