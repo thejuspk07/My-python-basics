@@ -9,7 +9,7 @@ print(s[17]) #forward
 
 #positive--->0
 #negative--->18
-
+#g--->-1,17 #ing
 #slicing
 print(s[0:6]) #positive
 print(s[-18:-12]) #negative
