@@ -18,3 +18,6 @@ print(s[-18:-12]) #negative
 
 print(s[7:10])
 print(s[-3:])
+
+
+print(s[0:5:2])#pto
