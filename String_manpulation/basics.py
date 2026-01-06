@@ -6,6 +6,10 @@ print(s[17]) #forward
 #negitive index start at last
 #positive index start at first
 
+
+#positive--->0
+#negative--->18
+
 #slicing
 print(s[0:6]) #positive
 print(s[-18:-12]) #negative
