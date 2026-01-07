@@ -45,6 +45,7 @@ print(s.split()) #if space are available it split and makes list ['python', 'pro
 print(len(s.split()))
 print((s.split()[1]))
 
+#split
 a="python,programming"
 print(a.split())#['python,programming']
 print(a.split(","))#['python', 'programming']
@@ -62,3 +63,7 @@ print(b.strip())
 v="####user@gmail.com####"
 print(v.strip("#")) #user@gmail.com
 
+n=" ####user@gmail.com#### "
+print(n.strip("#")) ####user@gmail.com####  because there is no # in starting space and ending space
+print(n.strip("# "))#user@gmail.com
+print(n.strip(" #u"))#ser@gmail.com
