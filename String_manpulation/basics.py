@@ -53,3 +53,12 @@ print(a.split("n"))#['pytho', ',programmi', 'g']
 
 b="user@gmail.com"
 print(b.split("@")[0])#dont need @gmail part
+
+#strip
+b="      user@gmail.co   m"
+print(b.strip())
+
+
+v="####user@gmail.com####"
+print(v.strip("#")) #user@gmail.com
+
