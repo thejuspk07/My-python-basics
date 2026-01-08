@@ -35,7 +35,12 @@ print(s[::-2])
 #-->capitalize
 #-->split
 #-->strip
-
+#-->isupper()
+#-->islower()
+#-->isnumeric()
+#-->startswit()
+#-->endswith()
+#-->count()
 
 print(s.upper()) #uppercase
 print(s.lower())#lowercase
@@ -67,3 +72,38 @@ n=" ####user@gmail.com#### "
 print(n.strip("#")) ####user@gmail.com####  because there is no # in starting space and ending space
 print(n.strip("# "))#user@gmail.com
 print(n.strip(" #u"))#ser@gmail.com
+
+
+#isupper()
+s="ABC"
+print(s.isupper())
+
+#islower()
+print(s.islower())
+
+#isnumeric()
+print(s.isnumeric())
+
+s="205a"
+print(s.isupper())#False
+print(s.islower())#True
+print(s.isnumeric())#False
+
+s="20.5"
+print(s.isnumeric())#False
+
+s="20  54"
+print(s.isnumeric())#False
+
+#startswith
+print(s.startswith("python"))
+
+#endswith
+print(s.endswith("ing"))
+
+#count
+s="python"
+print(s.count("p"))
+
+#index
+print(s.index("t"))
