@@ -131,3 +131,9 @@ for i in s: #i="p"
     if i=="p":
         c+=1
 print(c)
+
+
+#list capitalize
+s=["python", "programming"]
+for i in s:
+    print(i.capitalize())
