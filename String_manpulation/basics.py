@@ -115,4 +115,12 @@ print(s.replace(" ","_"))
 list=['python','programming','language']
 a="".join(list)
 print(a)
-//
+
+
+s="python programming"
+for i in s:
+    print("hello")
+print("end")
+
+for i in s:
+    print(i)
