@@ -102,8 +102,16 @@ print(s.startswith("python"))
 print(s.endswith("ing"))
 
 #count
-s="python"
+s="python programming"
 print(s.count("p"))
 
 #index
 print(s.index("t"))
+
+#replace
+print(s.replace(" ","_"))
+
+#list
+list=['python','programming','language']
+a="".join(list)
+print(a)
