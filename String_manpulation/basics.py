@@ -118,9 +118,16 @@ print(a)
 
 
 s="python programming"
+c=0;
 for i in s:
     print("hello")
 print("end")
 
 for i in s:
     print(i)
+
+#count using loop
+for i in s: #i="p"
+    if i=="p":
+        c+=1
+print(c)
