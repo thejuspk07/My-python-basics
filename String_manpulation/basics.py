@@ -136,4 +136,33 @@ print(c)
 #list capitalize
 s=["python", "programming"]
 for i in s:
-    print(i.capitalize())
+    print(i.capitalize(),end = " ")
+    print(i,len(i))
+
+for i in range(1,101):
+    print(i,end=" ")
+
+for i in range(100,0,-1):
+    print(i)
+
+
+
+n = int(input("Enter the multiplication table you want"))
+for i in range(1,11):
+    print(f" {i} X {n}= {i*n}")
+
+
+#natural number sum
+sum=0
+for i in range(1,152):
+    sum+=i
+print(sum)
+
+
+m=0
+for i in range(1,151):
+    if i%2==0:
+        m+=i
+print(m)
+
+45.56 min loops
