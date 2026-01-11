@@ -165,4 +165,4 @@ for i in range(1,151):
         m+=i
 print(m)
 
-45.56 min loops
+45.56 min loopss
