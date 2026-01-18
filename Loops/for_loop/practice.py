@@ -11,4 +11,9 @@ print(fact)
 #integer float not iterable
 
 s = int(input("enter the number:"))
-for i in s:
+res = 0
+for i in str(s):
+    res+=int(i)
+print(res)
+
+
