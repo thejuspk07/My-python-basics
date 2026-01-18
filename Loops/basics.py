@@ -59,6 +59,8 @@ print(new)
 
 
 
-
+s="cat"
+for i in s:
+    print(s.index(i),i)
 
 
