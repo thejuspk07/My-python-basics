@@ -16,4 +16,15 @@ for i in str(s):
     res+=int(i)
 print(res)
 
+#armstrong number
+a=153
+r=0
+for i in str(a):
+    r+=int(i)**3
+if r==a:
+    print(f"{r} is a armstrong number")
+else:
+    print(f"{r} is not armstrong number")
+
+
 
