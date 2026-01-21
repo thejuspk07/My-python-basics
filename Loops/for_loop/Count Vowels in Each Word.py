@@ -6,5 +6,9 @@
 #grape → 2
 words = ["apple", "orange", "grape"]
 vowels="aeiou"
+count=0
 for i in words:
-    if (i)==
+    for letter in i:
+        if letter in vowels:
+            count+=1
+    print(i,count)
