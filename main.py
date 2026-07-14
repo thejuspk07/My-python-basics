@@ -37,7 +37,9 @@ if __name__ == '__main__':
 
     #claude ==> anthropic
 
-    #LLaMa ==>
+    #LLaMa ==> Large Language Model Meta AI
+
+    #BERT ==> Bidirectional Encoder Representation from Transformer (Google)
 
 
 
