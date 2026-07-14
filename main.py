@@ -19,7 +19,7 @@ if __name__ == '__main__':
 
 
 #Text generation
-
+#................
     #LLM model
 
     #Large language model
@@ -50,4 +50,13 @@ if __name__ == '__main__':
 #program ==>information type ==> customized chatbot
 
 #RAG==> Retrieval Augmented Generation
+# ->(retrieve from external source == information == external source and retreive it )
+
+#Lang chain==> simplifies rag and implement it
+
+#Fine Tunning
+
+
+#Image Generation
+#..................
 
