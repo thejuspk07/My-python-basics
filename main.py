@@ -24,6 +24,11 @@ if __name__ == '__main__':
 
 #Large language model
 
+#uses
 #->text summarization
 #->content creation
+#->grammar check
+#Transilation
+
+#GPT ==>chatgpt ==> openai
 
