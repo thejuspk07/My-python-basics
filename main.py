@@ -14,3 +14,16 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
+
+
+
+
+#Text generation
+
+#LLM model
+
+#Large language model
+
+#->text summarization
+#->content creation
+
