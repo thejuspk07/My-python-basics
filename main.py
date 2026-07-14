@@ -41,5 +41,9 @@ if __name__ == '__main__':
 
     #BERT ==> Bidirectional Encoder Representation from Transformer (Google)
 
+    #Falcon
+
+   #Mistral
+
 
 
