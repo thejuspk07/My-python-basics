@@ -45,5 +45,9 @@ if __name__ == '__main__':
 
    #Mistral
 
+#chatbot==>simple chatbot(no customized details)
 
+#program ==>information type ==> customized chatbot
+
+#RAG==> Retrieval Augmented Generation
 
