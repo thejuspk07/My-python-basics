@@ -20,9 +20,9 @@ if __name__ == '__main__':
 
 #Text generation
 
-#LLM model
+    #LLM model
 
-#Large language model
+    #Large language model
 
 #uses
 #->text summarization
@@ -30,5 +30,14 @@ if __name__ == '__main__':
 #->grammar check
 #Transilation
 
-#GPT ==>chatgpt ==> openai
+#GPT ==> Generate Pretrained transformer
+    # ==>chatgpt ==> openai
+
+    #Gemini==> Google
+
+    #claude ==> anthropic
+
+    #LLaMa ==>
+
+
 
