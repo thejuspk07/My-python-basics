@@ -60,3 +60,13 @@ if __name__ == '__main__':
 #Image Generation
 #..................
 
+#Stable Diffusion
+
+#Hugging Face
+
+
+#Gemini
+#.......
+
+    #API KEY
+
