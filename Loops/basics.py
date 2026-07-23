@@ -28,6 +28,8 @@ for i in range(100,0,-1):
 
 
 
+
+
 n = int(input("Enter the multiplication table you want"))
 for i in range(1,11):
     print(f" {i} X {n}= {i*n}")
