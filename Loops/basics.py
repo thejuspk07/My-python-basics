@@ -20,6 +20,8 @@ for i in s:
     print(i.capitalize(),end = " ")
     print(i,len(i))
 
+
+#range
 for i in range(1,101):
     print(i,end=" ")
 
@@ -28,9 +30,6 @@ for i in range(100,0,-1):
 
 
 
-#range
-
-range(start,end,step)
 
 
 n = int(input("Enter the multiplication table you want"))
