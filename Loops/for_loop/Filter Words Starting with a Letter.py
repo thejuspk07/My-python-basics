@@ -11,7 +11,6 @@ cities = [
     "Barcelona",
     "Pune"
 ]
-
 for i in cities:
     if i.startswith("B"):
         print(i)
