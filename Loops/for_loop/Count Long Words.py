@@ -5,6 +5,22 @@ words = ["apple", "pineapple", "kiwi", "strawberry", "fig"]
 count=0
 for i in words:
     if len(i)>5:
-        print(i)
         count+=1
 print(count)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
