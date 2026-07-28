@@ -4,3 +4,6 @@ words = ["apple", "pineapple", "kiwi", "strawberry", "fig"]
 for i in words:
     if i.endswith(l):
         print(i)
+
+
+        #5
