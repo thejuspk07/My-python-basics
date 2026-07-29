@@ -1,3 +1,2 @@
-a=3
-b="12"
-print(a*b)
+a=-9//7
+print(a)
