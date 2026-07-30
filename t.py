@@ -1,5 +1,9 @@
-n=8
-if n%2==0:
-    print("n is even")
-else:
-    print("odd")
+l=[]
+num=7
+for i in range(2,num):
+    for i in range(2,num//2):
+        if num%i==0:
+            l.append(num)
+            break
+print(l)
+
