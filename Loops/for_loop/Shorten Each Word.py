@@ -4,3 +4,9 @@
 animals = ["elephant", "lion", "tiger", "giraffe"]
 for i in animals:
     print(i[:3])
+
+
+
+s="Middle characters"
+for i in s[1:-1]:
+    print(i,end=" ")
