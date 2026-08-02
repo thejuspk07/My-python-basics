@@ -10,3 +10,7 @@ for i in animals:
 s="Middle characters"
 for i in s[1:-1]:
     print(i,end=" ")
+
+
+
+    a
