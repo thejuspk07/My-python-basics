@@ -12,19 +12,3 @@ for i in s[1:-1]:
     print(i,end=" ")
 
 
-
-    aaaaaa
-
-
-
-    qq
-bbnnnknlknnnlnnl
-22222ee
-
-2
-
-2
-2
-
-2
-2
