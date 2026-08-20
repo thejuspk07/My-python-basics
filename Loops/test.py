@@ -1,7 +1,7 @@
-companies=["Indian oil","state bank of india","tata motors"]
-for i in companies:
-    s=""
-    for j in i.split():
-        if len(j)>2:
-            s+=j[0].upper()
-    print(s)
+#write a program to calculate the sum of digits
+n=3123
+s=0
+for i in str(n):
+    s+=int(i)
+print(s)
+
