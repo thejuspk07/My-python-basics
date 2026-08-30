@@ -7,3 +7,4 @@ emails = ["arya@gmail.com", "meera@yahoo.com", "john@outlook.com"]
 for i in emails:
     domain=i.split('@')
     print(domain[1])
+SSASSSS
