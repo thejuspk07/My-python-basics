@@ -8,3 +8,8 @@ for i in emails:
     domain=i.split('@')
     print(domain[1])
 SSASSSS
+
+
+aa
+
+a
