@@ -2,7 +2,7 @@
 
 A collection of Python programs and practice exercises created while learning Python fundamentals.
 
-This repository contains beginner-friendly examples covering variables, operators, conditional statements, strings, loops, and problem-solving.
+This repository contains beginner-friendly examples covering variables, operators, conditional statements, strings, loops, and problem-solving... 
 
 ## Repository Contents
 
