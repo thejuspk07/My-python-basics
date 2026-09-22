@@ -1,6 +1,3 @@
-#factorial using loop
-n= int(input("enter the number:"))
-fact=1
-for i in range(1,n+1):
-    fact=fact*i
-print(fact)
+# write a program to calculate the sum of digits in a given number
+# eg input: 7123 ---? expected result :13
+#             811--> expected result :10
