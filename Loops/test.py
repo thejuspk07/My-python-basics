@@ -1,7 +1,7 @@
-#armstrong number
-n="153"
-arm=0
-for i in n:
-    arm+=int(i)**len(n)
-print(arm)
-a
+#factorial
+n=5
+fact=1
+for i in range(1,n+1):
+    fact*=i
+print(fact)
+saa
